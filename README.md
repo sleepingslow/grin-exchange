@@ -25,10 +25,11 @@ This project, created by [Az0te], is a platform designed to facilitate seamless 
 
 ## 🛠️ Installation & Launch  
  
-   ```
+  ```
    cd 
    npm install
    npm run dev
+ ```
 
 ## 📜 Features  
 
