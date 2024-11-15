@@ -23,6 +23,14 @@ This project, created by [Az0te], is a platform designed to facilitate seamless 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠾⢿⢿⣿⡟⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠆⠀⠀⣠⣤⡤⠶⠛⠋⠉⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠒⠶⠶⠶⠶⣶⣦⣴⣶⠦⠤⠶⠶⠒⠒⠚⠋⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
+## 🛠️ Installation & Launch  
+
+1. Installez les dépendances :  
+   ```
+   cd 
+   npm install
+   npm run dev
+
 ## 📜 Features  
 
 - 🌟 **Grin Wallet Integration**: Deposit, and send GRIN easily.  
