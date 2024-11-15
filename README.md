@@ -25,7 +25,6 @@ This project, created by [Az0te], is a platform designed to facilitate seamless 
 
 ## 📜 Features  
 
-- 🌟 **Grin Wallet Integration**: Create, deposit, and send GRIN easily.  
+- 🌟 **Grin Wallet Integration**: Deposit, and send GRIN easily.  
 - 🔗 **Multi-Currency Support**: BTC and ETH wallets are also supported.  
-- 🔐 **Secure Transactions**: All operations are protected with robust security mechanisms.  
 - 📈 **User-Friendly Interface**: Built for simplicity and ease of use.
